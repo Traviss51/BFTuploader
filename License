@@ -11,6 +11,6 @@ git init
 git add .
 git commit -m "Initial commit: OctoPrint BFTUploader plugin"
 # If you have a remote, add it:
-git remote add origin https://github.com/yourusername/OctoPrint‑BFTUploader.git
+git remote add origin https://github.com/Traviss51/BFTuploader
 git branch -M main
 git push -u origin main

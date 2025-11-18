@@ -1,0 +1,16 @@
+
+---
+
+## 4️⃣ Git Commands to Initialize & Push
+
+Use these commands (replace `your-git-remote-url.git` with your repository URL):
+
+```bash
+cd /path/to/OctoPrint‑BFTUploader
+git init
+git add .
+git commit -m "Initial commit: OctoPrint BFTUploader plugin"
+# If you have a remote, add it:
+git remote add origin https://github.com/yourusername/OctoPrint‑BFTUploader.git
+git branch -M main
+git push -u origin main
